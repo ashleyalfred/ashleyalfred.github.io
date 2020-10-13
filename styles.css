@@ -1,0 +1,60 @@
+.center {
+    text-align: center;
+    color: #326ecf;
+}
+
+.background {
+    background-image: url('me.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1500px;
+    background-size: cover;
+}
+
+.button-fix {
+    color: white;
+    background-color: #326ecf;
+}
+
+.right {
+    text-align: right;
+}
+
+body, html {
+  height: 100%;
+}
+.bg {
+  /* The image used */
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
